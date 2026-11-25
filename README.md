@@ -80,30 +80,36 @@ Everything profiled for A-du, LLC is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [a-du-homes-mcp.yml](https://apis.io/servers/a-du-homes/a-du-homes-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [A Du Homes Authentication](https://apis.io/security/a-du-homes/a-du-homes-authentication/)
-- [A Du Homes Domain Security](https://apis.io/security/a-du-homes/a-du-homes-domain-security/)
+- [A-du, LLC Authentication](https://apis.io/security/a-du-homes/a-du-homes-authentication/)
+- [A-du, LLC Domain Security](https://apis.io/security/a-du-homes/a-du-homes-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [A Du Homes Scopes](https://apis.io/scopes/a-du-homes/a-du-homes-scopes/)
+- [A-du, LLC Scopes](https://apis.io/scopes/a-du-homes/a-du-homes-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [A Du Homes Plans Pricing](https://apis.io/plans/a-du-homes/a-du-homes-plans-pricing/)
+- [A-du, LLC Plans Pricing](https://apis.io/plans/a-du-homes/a-du-homes-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [A Du Homes Rate Limits](https://apis.io/rate-limits/a-du-homes/a-du-homes-rate-limits/)
+- [A-du, LLC Rate Limits](https://apis.io/rate-limits/a-du-homes/a-du-homes-rate-limits/)
 
 ## Where to find this API
 
@@ -118,18 +124,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 24.9** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 25.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.7 |
+| Discoverability | 83.3 |
 | Contract quality | 24.0 |
-| Contract governance | 16.4 |
+| Contract governance | 4.5 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 9.5 |
-| Access clarity | 31.6 |
+| Access clarity | 38.3 |
 
-**Agent readiness 30.8** — agent-ready
+**Agent readiness 30.5** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -154,8 +160,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 22.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/a-du-homes/](https://apis.io/providers/a-du-homes/).
 
